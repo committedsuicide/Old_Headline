@@ -1,0 +1,28 @@
+.Card {
+  border-radius: 10px;
+}
+
+.ImgBox {
+  border-radius: 10px;
+  width: 65px;
+  height: 65px;
+}
+.ImgBox img {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
+
+.TextBox {
+  display: inline-block;
+  margin-left: 10px;
+  padding-right: 5px;
+}
+
+.ButtonBox {
+  float: right;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=Card.css.map */
